@@ -1,0 +1,4 @@
+[
+  {"id":1, "name":"tea", "category":"grocery", "quantity":20, "price":60.0, "expiry":"2025-11-06"},
+  {"id":2, "name":"sugar", "category":"grocery", "quantity":30, "price":20.0, "expiry":"2025-08-07"}
+]
